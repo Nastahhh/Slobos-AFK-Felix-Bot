@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "horizonsmps.falixsrv.me",
+    "ip": "macesmp.falixsrv.me",
     "port": 22316,
     "version": "1.21.11",
     "try-creative": false
